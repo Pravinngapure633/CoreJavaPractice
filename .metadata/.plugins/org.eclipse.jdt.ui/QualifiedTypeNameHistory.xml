@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="variable.A"/>
+    <fullyQualifiedTypeName name="variable.C_Private_Const_Call_Other_file"/>
+    <fullyQualifiedTypeName name="variable.D_Copy_Constructor"/>
+    <fullyQualifiedTypeName name="variable.E_Static_Variable"/>
+    <fullyQualifiedTypeName name="variable.F_Counter2"/>
+    <fullyQualifiedTypeName name="variable.X"/>
+    <fullyQualifiedTypeName name="variable.Y"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
